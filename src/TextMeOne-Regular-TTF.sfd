@@ -112,6 +112,9 @@ NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
+BeginPrivate: 1
+BlueValues 22 [-1 0 502 502 700 706]
+EndPrivate
 BeginChars: 65544 250
 
 StartChar: .notdef
